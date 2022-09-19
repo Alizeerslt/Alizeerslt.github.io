@@ -3,6 +3,6 @@
 <u> Sweet and glow </u>
 <b> <u> by alizée </b> </u>
 <br> 
-  <u> <b> for healthy hair </u> </b>
+  <u> for healthy hair </u> 
   </br>
   </html>
